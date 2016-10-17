@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Training\SampleApplication\obj\UAT\Package\PackageTmp" />
+  <setAcl path="E:\Training\SampleApplication\obj\UAT\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Training\SampleApplication\obj\UAT\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
